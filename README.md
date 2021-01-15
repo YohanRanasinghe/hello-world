@@ -1,2 +1,2 @@
 # hello-world
-This Repo is created for Educational Purposes
+This Repo is created for Educational Purposes :)
